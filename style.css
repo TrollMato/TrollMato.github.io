@@ -1,0 +1,82 @@
+
+body {
+  background-color: #f4b41a;
+}
+
+.title-container{
+    height: 40vh;
+
+    background-color: #f4b41a;
+}
+
+.title-container {
+    font-size: 10rem;
+    font-weight: 700;
+    font-family: 'Liu Jian Mao Cao', cursive;
+
+}
+
+.title-name {
+  font-size: 4rem;
+  font-weight: 800;
+  font-family: 'Liu Jian Mao Cao', cursive;
+
+  position:relative;
+top: -2.5rem;
+
+color: gold;
+background-color: gray;
+}
+
+.title-tag {
+  font-size: 3rem;
+  font-weight: 500;
+  font-family: 'Liu Jian Mao Cao', cursive;
+
+  position: relative;
+  top: -2rem；
+}
+
+.about-me-container {
+  width: 80vw;
+  height: 40vh;
+
+  padding-top: 20px
+  padding-bottom: 20px；
+
+  margin-left: 10vw;
+
+  background-color: #143d59;
+}
+
+.about-me-image {
+  height: 19.9vw;
+  width: 19.9vw
+
+  border-radius: 100%;
+  box-shadow: 100px 5px 10px black;
+}
+
+.about-me-text {
+  font-size: 3rem;
+  font-family: 'Liu Jian Mao Cao', cursive;
+
+  padding-left: 5% !important;
+  padding-right: 5% !important;
+
+  color: pink
+}
+
+.contact-me-container {
+  margin-top: 10vh;
+  margin-bottom: 10vh;
+
+  font-size: 1.8rem;
+  font-weight: 700;
+  font-family: 'Liu Jian Mao Cao', cursive;
+}
+
+.contact-me-icon {
+     width: 8rem;
+     height: 8rem;
+}
